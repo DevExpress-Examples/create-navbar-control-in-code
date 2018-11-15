@@ -1,3 +1,8 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/CreateNavBar/Form1.cs) (VB: [Form1.vb](./VB/CreateNavBar/Form1.vb))
+<!-- default file list end -->
 # How to: Create a NavBarControl in code
 
 
