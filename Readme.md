@@ -12,4 +12,6 @@
 
 <br/>
 
+<b>In v15.1 we implemented AccordionControl. It extends NavBarControl's possibilities and has an unlimited number of hierarchies, a modern look and feel, and also a more flexible architecture.</b>
+
 
