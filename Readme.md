@@ -3,20 +3,20 @@
 [![](https://img.shields.io/badge/Open_in_DevExpress_Support_Center-FF7200?style=flat-square&logo=DevExpress&logoColor=white)](https://supportcenter.devexpress.com/ticket/details/E5096)
 [![](https://img.shields.io/badge/📖_How_to_use_DevExpress_Examples-e9f6fc?style=flat-square)](https://docs.devexpress.com/GeneralInformation/403183)
 <!-- default badges end -->
-<!-- default file list -->
-*Files to look at*:
+
+# WinForms Navigation Bar - Create a NavBarControl in code
+
+> **Note**
+>
+> You can also use the **DevExpress WinForms AccordionControl** - a feature-rich UI control designed to address a broad range of navigation related use-case scenarios. You can create an advanced hierarchical navigation menu with endless nesting of navigation elements, categorize elements into groups, create a web-inspired Hamburger style menu, and do many more. The Accordion Control offers semi-transparent Acrylic Material and improved high-DPI support.
+>
+> Read the following help topic for more informations: [WinForms Accordion Control](https://docs.devexpress.com/WindowsForms/114553/controls-and-libraries/navigation-controls/accordion-control).
+
+This example shows how to create a `NavBarControl` with two item groups ('Charts' and 'Settings') in code.
+
+![WinForms Navigation Bar](https://raw.githubusercontent.com/DevExpress-Examples/how-to-create-a-navbarcontrol-in-code-e5096/13.2.7%2B/media/winforms-navbar-control.png)
+
+
+## Files to Review
 
 * [Form1.cs](./CS/CreateNavBar/Form1.cs) (VB: [Form1.vb](./VB/CreateNavBar/Form1.vb))
-<!-- default file list end -->
-# How to: Create a NavBarControl in code
-
-
-<p>This example shows how to create a NavBarControl in code.</p><p>The NavBarControl will have two groups ('Charts' and 'Settings') with items. Item link selection is enabled by setting the LinkSelectionMode property to LinkSelectionModeType.OneInGroupAndAllowAutoSelect. To respond to a link selection, the SelectedLinkChanged event is handled.</p><br />
-<p>In the OneInGroupAndAllowAutoSelect mode, each group can have a single selected link independent of other groups. When a group is activated and it has no selected link, the first link is auto-selected. At runtime, you will see that the SelectedLinkChanged event fires on group activation, while the LinkClicked event does not.</p><br />
-<p>The example demonstrates two methods of assigning images to navbar items:</p><p>1) explicit assignment of Image objects to items (see the 'Charts' navbar group item initialization);</p><p>2) implicit assignment, using image indexes (see the 'Settings' navbar group item initialization).</p>
-
-<br/>
-
-<b>In v15.1 we implemented AccordionControl. It extends NavBarControl's possibilities and has an unlimited number of hierarchies, a modern look and feel, and also a more flexible architecture.</b>
-
-
