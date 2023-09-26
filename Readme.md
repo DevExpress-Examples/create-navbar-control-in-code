@@ -8,9 +8,9 @@
 
 > **Note**
 >
-> You can also use the **DevExpress WinForms AccordionControl** - a feature-rich UI control designed to address a broad range of navigation related use-case scenarios. You can create an advanced hierarchical navigation menu with endless nesting of navigation elements, categorize elements into groups, create a web-inspired Hamburger style menu, and do many more. The Accordion Control offers semi-transparent Acrylic Material and improved high-DPI support.
+> You can also use the **DevExpress WinForms AccordionControl** - a feature-rich UI control designed to address a broad range of navigation related use-case scenarios. You can create an advanced hierarchical navigation menu with endless nesting of navigation elements, categorize elements into groups, create a web-inspired Hamburger style menu, and much more. The Accordion Control offers semi-transparent Acrylic Material and improved high-DPI support.
 >
-> Read the following help topic for more informations: [WinForms Accordion Control](https://docs.devexpress.com/WindowsForms/114553/controls-and-libraries/navigation-controls/accordion-control).
+> Read the following help topic for more information: [WinForms Accordion Control](https://docs.devexpress.com/WindowsForms/114553/controls-and-libraries/navigation-controls/accordion-control).
 
 This example shows how to create a `NavBarControl` with two item groups ('Charts' and 'Settings') in code.
 
