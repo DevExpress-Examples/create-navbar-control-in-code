@@ -22,7 +22,7 @@ This example shows how to create a `NavBarControl` with two item groups ('Charts
 
 * [Form1.cs](./CS/CreateNavBar/Form1.cs) (VB: [Form1.vb](./VB/CreateNavBar/Form1.vb))
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=create-navbar-control-in-code&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=create-navbar-control-in-code&~~~was_helpful=no)
 
